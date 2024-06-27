@@ -8,6 +8,11 @@
 </div>
 
 ###
+<h2 align="center">Github Trophys</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=albertverso)](https://github.com/ryo-ma/github-profile-trophy)
+
+###
 
 <img align="right" height="150" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b7611xpr0e3tbg359q996ugz1214z718uj2w6kz8v1wey&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
