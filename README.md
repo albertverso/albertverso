@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Carlos Alberto and I'm a Fullstack Developer, from Fortaleza-Ce, Brazil</h2>
+<h2 align="left">Hi 👋! My name is Carlos Alberto and I'm a Fullstack Developer, Brazil</h2>
 
 ###
 
