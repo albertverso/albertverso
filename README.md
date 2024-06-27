@@ -10,7 +10,7 @@
 ###
 <h2 align="center">Github Trophys</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=albertverso)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=albertverso&theme=onedark)](https://github.com/albertverso/github-profile-trophy)
 
 ###
 
