@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BidWNxbTlveDdoYmZzMW1nZHJrc2FqbmJrcnkzNTRlc3F1aDI2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x2cHgtw3b32QqnFLwN/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b7611xpr0e3tbg359q996ugz1214z718uj2w6kz8v1wey&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -39,11 +39,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/albertverso/albertverso/output/snake.svg" alt="Snake animation" />
 
 ###
