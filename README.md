@@ -13,22 +13,6 @@
 
 ###
 
-<div align="center">
-  <h2 align="left">Github Trophys</h2>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=albertverso&theme=onedark)](https://github.com/albertverso/github-profile-trophy)
-</div>
-
-###
-
-<h2 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/albertverso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertverso" height="30" width="40" /></a>
-<a href="https://instagram.com/albertverso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albertverso" height="30" width="40" /></a>
-</p>
-
-###
-
 <h2 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -109,4 +93,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </p>
+
+###
+
+<div align="center">
+  <h2 align="left">Github Trophys</h2>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=albertverso&theme=onedark)](https://github.com/albertverso/github-profile-trophy)
+</div>
+
+###
+
+<h2 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/albertverso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertverso" height="30" width="40" /></a>
+<a href="https://instagram.com/albertverso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albertverso" height="30" width="40" /></a>
+</p>
+
 
