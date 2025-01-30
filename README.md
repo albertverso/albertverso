@@ -4,15 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertverso&label=Profile%20views&color=0e75b6&style=flat" alt="albertverso" /> </p>
 <div align="center">  
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=albertverso&show_icons=true&locale=en&theme=dracula" height="150" alt="albertverso" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertverso&theme=dracula" height="150" alt="albertverso" />
-  
-</div>
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albertverso&show_icons=true&locale=en&theme=dracula" height="150" alt="albertverso" > </img>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=albertverso&show_icons=true&locale=en&layout=compact&theme=dracula" height="150" alt="albertverso" />
 </div>
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertverso&theme=dracula" height="150" alt="albertverso"> </img>
+</div> -->
 
 ###
 
